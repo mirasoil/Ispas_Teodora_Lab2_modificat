@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispas_Teodora_Lab2_modificat", "Ispas_Teodora_Lab2_modificat.csproj", "{7FEA4696-4B87-40E4-A229-ABAE1B85AD46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FEA4696-4B87-40E4-A229-ABAE1B85AD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEA4696-4B87-40E4-A229-ABAE1B85AD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEA4696-4B87-40E4-A229-ABAE1B85AD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEA4696-4B87-40E4-A229-ABAE1B85AD46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B3FA84-39C0-4093-B116-9DFFD9D78DEF}
+	EndGlobalSection
+EndGlobal
